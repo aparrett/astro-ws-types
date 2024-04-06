@@ -1,0 +1,40 @@
+{
+  "name": "astro-ws-types",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "vitest",
+    "test:ci": "echo 1",
+    "test:watch": "vitest watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "prettier": "^2.3.2",
+    "typescript": "^4.1.2",
+    "vite": "^5.2.8",
+    "vite-plugin-dts": "^3.8.1",
+    "vitest": "^1.4.0"
+  },
+  "author": "Anthony Parrett",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "scope": "username"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aparrett/astro-ws-types.git"
+  },
+  "keywords": [
+    "astro-ws",
+    "astro weather service",
+    "astro",
+    "astro forecast",
+    "astroWS"
+  ]
+}
