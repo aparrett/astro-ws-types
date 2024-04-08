@@ -1,6 +1,6 @@
 {
   "name": "astro-ws-types",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/index.d.ts",
   "type": "module",
