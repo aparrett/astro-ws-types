@@ -1,5 +1,5 @@
 import { ForecastGridResponse, ForecastValue } from '../nws';
-import { Units } from './utils';
+import { Units } from '../utils';
 
 export interface GetForecastResponse {
   updateTime: string;

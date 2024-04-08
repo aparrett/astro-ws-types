@@ -1,2 +1,3 @@
-export * from './getForecast'
-export * from './utils'
+export * from './getForecast';
+export * from './getLocations';
+

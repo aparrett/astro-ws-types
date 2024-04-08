@@ -5,7 +5,7 @@
   "main": "dist/index.d.ts",
   "type": "module",
   "scripts": {
-    "start": "vite",
+    "start": "vite build",
     "build": "vite build",
     "test": "vitest",
     "test:ci": "echo 1",
